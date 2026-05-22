@@ -1,7 +1,6 @@
-|
 <div align="center">
- 
-<img width="1672" height="940" alt="DS4Windows" src="https://github.com/user-attachments/assets/40a59bc5-bc49-4dd2-9d20-6bb874fd12af" />
+ <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/23828485-c93d-46b9-a809-e859372b70af" />
+
 # DS4Windows
   <p align="center">
     <strong>The Best DualShock 4 & DualSense Controller Emulator for Windows</strong>
